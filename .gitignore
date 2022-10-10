@@ -1,0 +1,5 @@
+secrets.py
+project/__pycache__
+mainapp/__pycache__
+authenticate/__pycache__
+env
