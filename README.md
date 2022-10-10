@@ -10,3 +10,6 @@
 4. Run `python manage.py runserver`
 
 <img src='image.png'>
+
+
+[![Home Page Video](image.png)](home.mp4)
