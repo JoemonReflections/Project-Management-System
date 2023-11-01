@@ -4,7 +4,7 @@ jobs:
   job1:
     runs-on : ubuntu-latest
     steps:
-      -name : Clone Repo
-      -uses : actions/checkout@v2
-      -name : echoing build
-      -run : echo "Hello World" 
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: echoing build
+      - run: echo "Hello World" 
